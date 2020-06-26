@@ -1,0 +1,32 @@
+.title{
+	font-family: 'Sriracha', cursive;
+	text-align: center;
+	font-size: 24pt;
+	background-color: #ffa5b0;	
+}
+head{
+	border: solid white;
+}
+body{
+	background-color: #78daf0;
+	background-position: center;
+	text-align: center;
+}
+section{
+	display: flex;
+}
+#bake{
+	font-family: 'Sriracha', cursive;
+	text-align: center;
+	background-color: moccasin;
+	font-size: 20pt;
+}
+#first{
+	width: 20%;
+}
+#second{
+	width:20%;
+}
+.social{
+	text-align: left
+}
